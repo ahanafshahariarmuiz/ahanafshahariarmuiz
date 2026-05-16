@@ -29,10 +29,11 @@ along the way.
 ---
 
 **What I work with:**
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Express, REST APIs
+- **Frontend:** React, Next.js, TypeScript, JavaScript, HTML5, CSS3, Redux, Tailwind CSS
+- **Backend:** Node.js, Express, Socket.io
+- **Databases:** MongoDB, PostgreSQL, MySQL, Supabase, Firebase
 - **Mobile:** React Native
-- **Design:** Figma, UI/UX, Design Systems
+- **Design & Tools:** Figma, Git, GitHub, Vercel, Google Cloud, npm
 - **Currently focused on:** Growing PalettiQ & building in public
 
 
