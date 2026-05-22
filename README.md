@@ -2,23 +2,23 @@
 ## Hey, I'm Ahnaf Shahriar Muiz 👋
 
 I'm a self-taught full-stack developer and UI/UX designer from Bangladesh,
-currently in my final year of Computer Science & Technology at Dinajpur
+Currently in my final year of Computer Science & Technology at Dinajpur
 Polytechnic Institute.
 
 I've been writing code since 2020 — not because someone told me to,
-but because I genuinely enjoy building things. Over the years I've worked
-across the full stack: React, Node.js, databases, mobile apps with React
+but because I genuinely enjoy building things. Over the years, I've worked
+across the full stack: React, Node.js, databases, and mobile apps with React
 Native, and everything UI/UX in between. Most of that time was spent
 learning by doing — cloning real apps, rebuilding familiar products from
 scratch, and pushing myself to understand how things actually work under
 the hood.
 
 Recently, I shifted focus from practice to production. I spent around
-7–8 months designing, building, and launching **PalettiQ**
+7–8 months designing, building, and launching **PalettIQ**
 ([palettiq.net](https://palettiq.net)) — a powerful, detail-controlled
 color palette generator built for designers and developers who want more
 than just random swatches. It's my first real shipped product, and the
-beginning of how I want to work: independently, shipping tools people
+beginning of how I want to work: independently, shipping tools to people
 actually use.
 
 I'm not chasing a job title. I'm building toward being a solo developer
